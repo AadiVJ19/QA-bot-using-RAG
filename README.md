@@ -31,23 +31,6 @@ A Question-Answering (QA) bot that leverages Retrieval-Augmented Generation (RAG
 4. Run the Jupyter notebook `qa_bot_rag_pinecone.ipynb`
 
 ## Usage
+ Input your questions and get accurate, context-aware responses
 
-1. Launch the Jupyter notebook
-2. Follow the step-by-step instructions in the notebook
-3. Input your questions and get accurate, context-aware responses
 
-## Fine-tuning
-
-For information on how to prepare your dataset and fine-tune the model for specific domains, refer to `dataset_preparation_fine_tuning.md`.
-
-## Optimization
-
-Check out `rag_optimization_techniques.md` for various techniques to optimize the performance of your RAG-based QA system.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
